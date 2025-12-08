@@ -19,7 +19,7 @@ This plugin allows GIS analysts to describe what they want in plain English, and
 
 ---
 
-## 🧩 Requirements
+## Requirements
 
 ### QGIS
 - QGIS 3.x
