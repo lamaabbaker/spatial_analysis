@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/ollama_sql" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
